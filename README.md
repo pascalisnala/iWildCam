@@ -8,7 +8,7 @@ iWildCam is a Kaggle competition which goal is to classify animal image data obt
 #### Possible Implementation
 
 ## Datasets
-The dataset used in this project is the data from the 2019 version of the competition it self:
+The dataset used in this project is the data from the 2019 version of the competition itself:
  - [iWildCam 2019 - FGVC6](https://www.kaggle.com/c/iwildcam-2019-fgvc6)
 
 ## Model Building
