@@ -1,0 +1,2 @@
+rootProject.name='WildCam'
+include ':app'
