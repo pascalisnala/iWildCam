@@ -82,7 +82,7 @@ validation accuracy = 0.8540**
  - The model is run on device CPU as this android app is not really depends on the computation speed. Anyway, the model still perform really well as it predicting in under than 200ms
  - The model is a quantized model as we are using a pre-trained model which usually very complex and heavy neural networks design. By doing this we are able to reduce the model size by 4 times. This make the application size is not huge while we can obtain almost the same result with the original model. 
 
-## PPT
+## Presentation Slides
 You can read more about this project in iWildCam Project.pdf
 
 
