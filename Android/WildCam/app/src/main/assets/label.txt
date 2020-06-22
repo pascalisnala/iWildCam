@@ -1,0 +1,14 @@
+bobcat
+cat
+coyote
+deer
+dog
+empty
+fox
+mountain_lion
+opossum
+rabbit
+raccoon
+rodent
+skunk
+squirrel
