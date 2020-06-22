@@ -83,7 +83,7 @@ validation accuracy = 0.8540**
  - The model is a quantized model as we are using a pre-trained model which usually very complex and heavy neural networks design. By doing this we are able to reduce the model size by 4 times. This make the application size is not huge while we can obtain almost the same result with the original model. 
 
 ## PPT
-You can read more about this project in PPT format in this [link](https://drive.google.com/file/d/1AkwS5_mD-hmTGgWWblrqbtbzjN1q3Su3/view?usp=sharing)
+You can read more about this project in iWildCam Project.pdf
 
 
 ## Using the APP
